@@ -1,4 +1,3 @@
-# ruixing
 # Luckin Coffee → ChatGPT MCP Bridge
 
 A tiny authenticated bridge for connecting Luckin Coffee’s official remote MCP to ChatGPT when ChatGPT’s custom MCP UI only offers OAuth / No Auth / Mixed, while Luckin requires a static Bearer token\.
